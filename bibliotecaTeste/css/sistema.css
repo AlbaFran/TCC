@@ -1,0 +1,53 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+}
+
+
+body{
+  /* background: url(./img/fundo3-login.png) ; */
+  font-family: Poppins;
+}
+
+
+.img-fundo{
+  position: absolute;
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  filter: brightness(50%);
+}
+
+
+
+.txt-sistema{
+  position: absolute;
+  margin-top: 15px;
+  margin-left: 15px;
+  color: white;
+  
+}
+
+.container h4{
+  position: absolute;
+  position: absolute;
+  margin-left: 94%;
+  margin-top: 85px;
+  max-width: 64px;
+  max-height: 64px;
+  color: white;
+  font-weight: 300;
+}
+
+.btn-sair{
+  position: absolute;
+  margin-left: 93%;
+  margin-top: 20px;
+  max-width: 64px;
+  max-height: 64px;
+}
+
+

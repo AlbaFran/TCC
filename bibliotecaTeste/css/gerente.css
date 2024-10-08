@@ -1,0 +1,81 @@
+/* Formatação geral */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body, html {
+    height: 100%;
+    overflow: hidden; /* Remove as barras de rolagem */
+}
+
+/* Container principal */
+.container {
+    position: relative;
+    width: 100%;
+    height: 100vh; /* A altura será a da tela toda */
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+/* Imagem de fundo */
+.img-fundo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Faz com que a imagem cubra a tela inteira */
+    z-index: -1; /* Mantém a imagem no fundo */
+}
+
+/* Área de conteúdo à esquerda */
+.content-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 20px;
+}
+
+/* Texto de boas-vindas no canto superior esquerdo */
+.txt-sistema {
+    font-size: 2.5em;
+    font-weight: 600;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra para destaque */
+    margin-bottom: 40px; /* Espaço entre o texto e o primeiro botão */
+}
+
+/* Botão sair no canto superior direito */
+.btn-sair {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+/* Botões no canto esquerdo abaixo da mensagem de boas-vindas */
+.btn {
+    padding: 10px 20px;
+    font-size: 1.5em;
+    background-color: #8a2be2; /* Cor de fundo roxo */
+    color: white; /* Texto branco */
+    text-decoration: none;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    margin-bottom: 20px; /* Espaçamento entre os botões */
+    width: 250px; /* Largura dos botões */
+    text-align: center;
+}
+
+.btn:hover {
+    background-color: #7a1fd2; /* Muda a cor ao passar o mouse */
+}
+
+
