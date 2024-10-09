@@ -12,25 +12,37 @@
 </head>
 
 <body>
+
+    <header>
+        <h1>
+            Olá, seja bem vindo Gerente!
+        </h1>
+
+        <div class="btn-sair">
+            <a href="index.php"><img class="btn-sair" src="./img/sair.png" alt="botao sair"></a>
+        </div>
+
+    </header>
+
+
+
     <div class="container">
-        <img class="img-fundo" src="./img/fundo3-login.png" alt="">
 
-        <!-- Botão sair no canto superior direito -->
-        <a href="index.php" class="btn-sair">
-            <img src="./img/sair.png" alt="Botão Sair">
-        </a>
-
-        <!-- Texto de boas-vindas e botões -->
-        <div class="content-left">
-            <h1 class="txt-sistema">Seja bem vindo GERENTE!</h1>
-
+        
+        <div class="conteiner">
             <!-- Botão para ir para Usuários abaixo da mensagem -->
-            <a href="UsuariosCadastrados.php" class="btn">Gerenciamento de Cadastros</a>
-
+            <button class="btn-cadastro">
+                <a href="UsuariosCadastrados.php" class="">Gerenciamento de Cadastros</a>
+            </button>
+            <br>
             <!-- Botão para Acerto de Livros abaixo do botão de Usuários -->
-            <a href="AcertoDeLivros.php" class="btn">Acerto de Livros</a>
+            <button class="btn-acervo">
+                <a href="AcervoDeLivros.php" class="">Gerenciamento de Livros</a>
+
+            </button>
         </div>
     </div>
+
 </body>
 
 </html>
