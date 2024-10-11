@@ -20,7 +20,7 @@
     <nav class="cabecalho efeito-cabecalho">
       <a href="#">Logo</a>
       <a href="#">Informações</a>
-      <a href="faleConosco.php">Contato</a>
+      <a href="faleConosco.php">Fale Conosco</a>
     </nav>
   </header>
 
