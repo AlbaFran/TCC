@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  color: #ffffff;
+  
+}
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  background:rgba(0,0,0,0.5)url(../img/fundo3-login.png);
+  background-size: cover;
+  background-blend-mode: darken;
+}
+
+
+
+header{
+  max-width: 1800px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 50px;
+ 
+}
+
+
+header a{
+  color: #eee;
+  margin-right: 40px;
+  font-weight: 300; 
+  text-decoration: none;
+  display: inline-block;
+}
+
+nav a:hover{
+  transform: scale(1.10);
+}
+
+.galeria-mains{
+  margin:70px;
+  padding:1px 16px;
+  height:1000px;
+}
+
+
+
+
+h2{
+  margin: 20px;
+}
+
+.gallery{
+  display: flex;
+  flex-direction: row; 
+  column-gap: 20px;
+  flex-wrap: wrap;
+  row-gap: 10px;
+}
+
+.gallery img{
+  height: 250px;
+  width:200px;
+  display: inline-block;
+}
+.gallery img:hover{
+  transform: scale(1.05);
+}
+
+
+
+
