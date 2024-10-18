@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: url(../img/fundo2-login.jpg);
+  height: 100vh; 
+  height: 100vh; 
+  background-position: center;
+  background-size: cover;
+}
+
