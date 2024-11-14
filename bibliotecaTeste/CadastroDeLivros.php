@@ -13,15 +13,9 @@
 
 <body>
   <?php
-  //testando se os dados estão sendo enviado ao banco de dados
+  
   if (isset($_POST['submit'])) {
-    //   print_r($_POST['nome']);
-    //   print_r('<br>');
-    //   print_r($_POST['email']);
-    //   print_r('<br>');
-    //   print_r($_POST['telefone']);
-    //   print_r('<br>');
-    //   print_r($_POST['senha']);
+    
 
     include_once('conexaoBD.php');
 
