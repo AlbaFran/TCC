@@ -62,26 +62,7 @@
       </div>
 
 
-      <!-- <p>Sexo:</p>
-        <input  type="radio" id="feminino" name="genero" value="feminino" required>
-        <label for="feminino">Feminino</label>
-
-        <input  type="radio" id="masculino" name="genero" value="masculino" required>
-        <label for="masculino">Masculino</label>
-
-        <input  type="radio" id="outros" name="genero" value="outros" required>
-        <label for="outros">Outros</label>
-
-        <div class="inputBox">
-          <label for="data_nascimentoa"> <h4>Data de Nascimento:</h4></label>
-          <input type="date" name="data_nascimentoa" id="data_nascimentoa" class="inputUser" required>
-        </div>
-        <br> -->
-
-      <!-- <div class="inputBox">
-          <input type="text" name="cidade" id="cidade" class="inputUser" required>
-          <label for="cidade">Cidade:</label>
-        </div> -->
+      
         
 
         <div class="inputBox-cpf">

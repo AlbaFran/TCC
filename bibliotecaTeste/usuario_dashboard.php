@@ -71,7 +71,7 @@
           </div>
 
           <div class="image-holder">
-            <a href="https://drive.google.com/drive/folders/1-lDIYtUoagEnGwfPaUotlwuSB99H847J?usp=sharing" target="_blank">
+            <a href="#">
               <img src="./img/baixar-livro-doutor-sono-stephen-king.webp" alt="img-">
             </a>
 

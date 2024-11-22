@@ -57,7 +57,7 @@
 
                 echo '<td><a href="ExcluirLivros.php?id=' . $linha['idlivros'] . '&titulo_livro=' . $linha['titulo_livro'] . '&editora=' . $linha['editora'] . '&categoria=' . $linha['categoria'] . '&numero_paginas=' . $linha['numero_paginas'] . '&ano=' . $linha['ano'] . '"<i class="fa fa-user-times w3-large w3-text-black"></i> </a></td></td>';
 
-                echo '<td><a href="AtualizarCadastro.php?id=' . $linha['idlivros'] . '&titulo_livro=' . $linha['titulo_livro'] . '&editora=' . $linha['editora'] . '&categoria=' . $linha['categoria'] . '&numero_paginas=' . $linha['numero_paginas'] . '&ano=' . $linha['ano'] . '"><i class="fa fa-refresh w3-large w3-text-black""></i></a></td></td>';
+                echo '<td><a href="AtualizarLivros.php?id=' . $linha['idlivros'] . '&titulo_livro=' . $linha['titulo_livro'] . '&editora=' . $linha['editora'] . '&categoria=' . $linha['categoria'] . '&numero_paginas=' . $linha['numero_paginas'] . '&ano=' . $linha['ano'] . '"><i class="fa fa-refresh w3-large w3-text-black""></i></a></td></td>';
 
                 echo '</tr>';
                 }

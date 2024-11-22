@@ -4,6 +4,9 @@
             margin: 0; /* Remove margens padrão */
             background: url('img/fundo2-login.jpg') no-repeat center center;
             background-size: cover; /* A imagem vai cobrir toda a área da página */
+            
+
+
         }
         
         /* Adicione as media queries aqui */
