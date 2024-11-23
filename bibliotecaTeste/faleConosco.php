@@ -25,10 +25,10 @@
       <img src="./img/alba.png" alt="">
 
       <div class="icon">
-        <a href="#" target="_blank"> <img src="./img/whatsapp.png" alt="Abrir Whatsapp"></a>
-        <a href="#" target="_blank"> <img src="./img/linkedin.png" alt="Abrir Linkedin"></a>
-        <a href="#" target="_blank"> <img src="./img/github.png" alt="Abrir GitHub"></a>
-        <a href="#" target="_blank"> <img src="./img/instagram.png" alt="Abrir Instagram"> </a>
+        <a href="http://wa.me/5511950722983" target="_blank"> <img src="./img/whatsapp.png" alt="Abrir Whatsapp"></a>
+        <a href="http://www.linkedin.com/in/albafs" target="_blank"> <img src="./img/linkedin.png" alt="Abrir Linkedin"></a>
+        <a href="https://github.com/AlbaFran" target="_blank"> <img src="./img/github.png" alt="Abrir GitHub"></a>
+        <a href=" https://www.instagram.com/albafranciele/ " target="_blank"> <img src="./img/instagram.png" alt="Abrir Instagram"> </a>
 
        
       </div>
@@ -53,10 +53,10 @@
       <img src="./img/victor.png" alt="">
 
       <div class="icon">
-        <a href="#" target="_blank"> <img src="./img/whatsapp.png" alt=""> </a>
-        <a href="#" target="_blank"> <img src="./img/linkedin.png" alt="Abrir Linkedin"></a>
-        <a href="#" target="_blank"> <img src="./img/github.png" alt="Abrir GitHub"> </a>
-        <a href="#" target="_blank"> <img src="./img/instagram.png" alt="Abrir Instagram"> </a>
+        <a href="http://wa.me/5511957570951" target="_blank"> <img src="./img/whatsapp.png" alt=""> </a>
+        <a href="https://www.linkedin.com/in/victor-margini-7b5729325/" target="_blank"> <img src="./img/linkedin.png" alt="Abrir Linkedin"></a>
+        <a href="https://github.com/MarginiDev" target="_blank"> <img src="./img/github.png" alt="Abrir GitHub"> </a>
+        <a href="http://instagram.com/victormarginigds/" target="_blank"> <img src="./img/instagram.png" alt="Abrir Instagram"> </a>
       </div>
 
     </div>
